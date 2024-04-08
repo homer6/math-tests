@@ -11,6 +11,25 @@ Create a math speed test suitable for a Grade 4 student. The test should contain
 
 **Note:** Adjust the complexity of the problems based on the grade level mentioned. For lower grades, focus on basic operations and simpler numbers. For higher grades, introduce more complex numbers and mixed operation problems.
 
----
+Example:
 
-By using this template, you can quickly generate a math speed test tailored to any grade level, ensuring that the content is appropriate and the test serves as an effective tool for assessing students' arithmetic skills under time constraints.
+
+**Grade 4 Math Speed Test**
+
+**Instructions:**
+- Solve each math problem as quickly as you can.
+- Write your answer in the space provided.
+- You have 4 minutes to complete as many questions as you can.
+
+1) 123 + 289 = _______
+2) 512 - 298 = _______
+3) 34 × 3 = _______
+4) 48 ÷ 6 = _______
+5) 215 + 124 = _______
+6) 730 - 295 = _______
+7) 27 × 4 = _______
+8) 81 ÷ 9 = _______
+9) 130 + 442 = _______
+10) 359 - 143 = _______
+11) 56 × 3 = _______
+12) 64 ÷ 8 = _______
